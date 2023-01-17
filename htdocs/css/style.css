@@ -1,0 +1,21 @@
+.logo_img {
+  margin: 0px 10px;
+  height: 48px;
+}
+
+.card {
+  width: 20%;
+  margin: 2.5%;
+}
+
+.btn-holder {
+  vertical-align: bottom;
+}
+
+form {
+  width: 75%;
+}
+
+textarea {
+  height: 22%;
+}
